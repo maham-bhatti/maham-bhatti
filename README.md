@@ -49,7 +49,7 @@ const maham = {
 <td width="60%">
 
 <a href="https://github.com/maham-bhatti/aqi-predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maham-bhatti&repo=aqi-predictor&theme=nord&border_color=0FBF3E&title_color=0FBF3E&text_color=B6BFB8&bg_color=0D1117" alt="AQI Predictor"/>
+  <img src="./profile/pin-aqi-predictor.svg" alt="AQI Predictor"/>
 </a>
 
 </td>
@@ -76,7 +76,7 @@ const maham = {
 <td width="60%">
 
 <a href="https://github.com/maham-bhatti/FYP-Traffic">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=maham-bhatti&repo=FYP-Traffic&theme=nord&border_color=0FBF3E&title_color=0FBF3E&text_color=B6BFB8&bg_color=0D1117" alt="FYP Traffic Signal Control"/>
+  <img src="./profile/pin-fyp-traffic.svg" alt="FYP Traffic Signal Control"/>
 </a>
 
 </td>
@@ -119,10 +119,10 @@ const maham = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maham-bhatti&show_icons=true&theme=nord&border_color=0FBF3E&title_color=0FBF3E&text_color=B6BFB8&icon_color=0FBF3E&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maham-bhatti&layout=compact&theme=nord&border_color=0FBF3E&title_color=0FBF3E&text_color=B6BFB8&bg_color=0D1117" alt="Top Languages" width="48%"/>
+<img src="./profile/stats.svg" alt="GitHub Stats" width="48%"/>
+<img src="./profile/top-langs.svg" alt="Top Languages" width="48%"/>
 
-<img src="https://streak-stats.demolab.com/?user=maham-bhatti&theme=nord&border=0FBF3E&ring=0FBF3E&fire=0FBF3E&currStreakLabel=B6BFB8&background=0D1117" alt="Streak Stats" width="70%"/>
+<img src="./profile/streak.svg" alt="Streak Stats" width="70%"/>
 
 </div>
 
