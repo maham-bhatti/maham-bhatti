@@ -1,9 +1,10 @@
+
 <div align="center">
 
 <img src="https://capsule-render.com/api?type=waving&color=0FBF3E&height=200&section=header&text=Maham%20Bhatti&fontSize=42&fontColor=B6BFB8&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Artificial%20Intelligence&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+AI+%2F+ML+Enthusiast;Building+with+Python%2C+C%2B%2B+%26+Java;Exploring+Reinforcement+Learning+%26+Simulations;Currently+building+AQI-Predictor+%26+Adaptive+Traffic+Signal+Control;&font=Fira+Code&center=true&width=650&height=45&color=0FBF3E&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+AI+%2F+ML+Enthusiast;Building+Multi-Agent+Reinforcement+Learning+Systems;Exploring+Simulations+with+SUMO+%26+Python;Currently+building+AQI+Predictor+%26+Adaptive+Traffic+Signal+Control;&font=Fira+Code&center=true&width=650&height=45&color=0FBF3E&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
 </a>
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-0FBF3E?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
@@ -24,15 +25,28 @@ const maham = {
   title: "Software Engineer",
   focus: "Artificial Intelligence",
   stack: [
-    "Python", "C++", "Java", "SQL", "YOLO", "Data Training", "Data Science", 
-    "Machine Learning", "Reinforcement Learning", "Deep Learning", "Agents", "Multi-Agents",
-    "HTML", "CSS", "Simulations", "SUMO", 
+    "Python", "C++", "Java", "SQL",
+    "Deep Learning", "Reinforcement Learning",
+    "Multi-Agent Systems", "AI Agents",
+    "RESTful APIs", "SUMO", "Simulations",
+    "Data Analysis & Visualization",
+    "HTML", "CSS"
+  ],
+  softSkills: [
+    "Teamwork", "Team Lead", "Project Management",
+    "Communication", "Analytical Thinking", "Problem Solving"
   ],
   launchedProjects: [
+    "FYP: Intelligent Multi-Agent RL Framework for Adaptive Traffic Signal Control",
     "AQI Predictor — real-time air quality prediction app",
-    "FYP: Adaptive Traffic Signal Control — RL-based traffic optimization"
+    "Calculator GUI, Music GUI, Plagiarism Checker, Password Generator",
+    "Desktop Chat Application, DSA Bank Management System"
   ],
-  certifications: [], // none listed yet
+  certifications: [
+    "Responsible AI: Applying AI Principles with Google Cloud",
+    "Google AI Essentials — Coursera",
+    "Automated Machine Learning (AutoML) for Beginners — Udemy"
+  ],
   status: "Building, learning, and shipping AI-powered projects",
   openTo: "Software Engineering / AI-ML roles"
 };
@@ -41,6 +55,35 @@ const maham = {
 <br/>
 
 ## 🚀 Featured Projects
+
+### 🚦 Intelligent Multi-Agent Reinforcement Learning Framework for Adaptive Traffic Signal Control
+
+**Final Year Project**
+
+<table>
+<tr>
+<td width="60%">
+
+<a href="https://github.com/maham-bhatti/FYP-Traffic">
+  <img src="./profile/pin-fyp-traffic.svg" alt="FYP Traffic Signal Control"/>
+</a>
+
+</td>
+<td width="40%">
+
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Domain | Multi-Agent Reinforcement Learning |
+| Simulation | SUMO |
+
+</td>
+</tr>
+</table>
+
+**💻 [Code](https://github.com/maham-bhatti/FYP-Traffic)**
+
+<br/>
 
 ### 🌫️ AQI Predictor
 
@@ -69,14 +112,14 @@ const maham = {
 
 <br/>
 
-### 🚦 Adaptive Traffic Signal Control (Final Year Project)
+### 🏦 DSA Bank Management System
 
 <table>
 <tr>
 <td width="60%">
 
-<a href="https://github.com/maham-bhatti/FYP-Traffic">
-  <img src="./profile/pin-fyp-traffic.svg" alt="FYP Traffic Signal Control"/>
+<a href="https://github.com/maham-bhatti/DSA-Bank-Project">
+  <img src="./profile/pin-dsa-bank-project.svg" alt="DSA Bank Project"/>
 </a>
 
 </td>
@@ -84,15 +127,152 @@ const maham = {
 
 | Layer | Technology |
 |---|---|
-| Language | Python / C++ |
-| Domain | Reinforcement Learning |
-| Type | Simulation |
+| Language | C++ |
+| Domain | Data Structures & Algorithms |
 
 </td>
 </tr>
 </table>
 
-**💻 [Code](https://github.com/maham-bhatti/FYP-Traffic)**
+**💻 [Code](https://github.com/maham-bhatti/DSA-Bank-Project)**
+
+<br/>
+
+### 💬 Desktop Chat Application
+
+<table>
+<tr>
+<td width="60%">
+
+<a href="https://github.com/maham-bhatti/desktop-application">
+  <img src="./profile/pin-desktop-application.svg" alt="Desktop Application"/>
+</a>
+
+</td>
+<td width="40%">
+
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Type | Real-time desktop conversation app |
+
+</td>
+</tr>
+</table>
+
+**💻 [Code](https://github.com/maham-bhatti/desktop-application)**
+
+<br/>
+
+### 📝 Plagiarism Checker
+
+<table>
+<tr>
+<td width="60%">
+
+<a href="https://github.com/maham-bhatti/Plagiarism-Checker">
+  <img src="./profile/pin-plagiarism-checker.svg" alt="Plagiarism Checker"/>
+</a>
+
+</td>
+<td width="40%">
+
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Type | Text similarity detection GUI |
+
+</td>
+</tr>
+</table>
+
+**💻 [Code](https://github.com/maham-bhatti/Plagiarism-Checker)**
+
+<br/>
+
+### 🎵 Music GUI
+
+<table>
+<tr>
+<td width="60%">
+
+<a href="https://github.com/maham-bhatti/Music-GUI">
+  <img src="./profile/pin-music-gui.svg" alt="Music GUI"/>
+</a>
+
+</td>
+<td width="40%">
+
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Type | GUI music player |
+
+</td>
+</tr>
+</table>
+
+**💻 [Code](https://github.com/maham-bhatti/Music-GUI)**
+
+<br/>
+
+### 🧮 Calculator GUI
+
+<table>
+<tr>
+<td width="60%">
+
+<a href="https://github.com/maham-bhatti/Calculator-GUI">
+  <img src="./profile/pin-calculator-gui.svg" alt="Calculator GUI"/>
+</a>
+
+</td>
+<td width="40%">
+
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Type | GUI calculator |
+
+</td>
+</tr>
+</table>
+
+**💻 [Code](https://github.com/maham-bhatti/Calculator-GUI)**
+
+<br/>
+
+### 🔑 Password Generator
+
+<table>
+<tr>
+<td width="60%">
+
+<a href="https://github.com/maham-bhatti/passwordGenerator">
+  <img src="./profile/pin-password-generator.svg" alt="Password Generator"/>
+</a>
+
+</td>
+<td width="40%">
+
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Type | Secure random password generator |
+
+</td>
+</tr>
+</table>
+
+**💻 [Code](https://github.com/maham-bhatti/passwordGenerator)**
+
+<br/>
+
+## 🎓 Certifications
+
+- 🎖️ **Responsible AI: Applying AI Principles with Google Cloud** — *Mar 2024*
+- 🎖️ **Google AI Essentials** — *Coursera, Aug 2024* — [Verify](https://www.credly.com/go/xibGehbj)
+- 🎖️ **Automated Machine Learning (AutoML) for Beginners** — *Udemy, May 2024*
 
 <br/>
 
@@ -108,10 +288,23 @@ const maham = {
 
 **AI / ML / Data**
 
-<img src="https://img.shields.io/badge/Machine%20Learning-0FBF3E?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-0FBF3E?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Reinforcement%20Learning-0FBF3E?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Simulations-0FBF3E?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-0FBF3E?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-0FBF3E?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SUMO%20Simulation-0FBF3E?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analysis%20%26%20Visualization-0FBF3E?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-0FBF3E?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RESTful%20APIs-0FBF3E?style=for-the-badge&logoColor=white"/>
+
+**Core Strengths**
+
+<img src="https://img.shields.io/badge/Teamwork-B6BFB8?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Team%20Lead-B6BFB8?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Project%20Management-B6BFB8?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Communication-B6BFB8?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Analytical%20Thinking-B6BFB8?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-B6BFB8?style=for-the-badge&logoColor=black"/>
 
 <br/>
 
@@ -124,14 +317,6 @@ const maham = {
 
 <img src="./profile/streak.svg" alt="Streak Stats" width="70%"/>
 
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=maham-bhatti&theme=nord&no-frame=true&no-bg=true&column=7&title.color=0FBF3E&rank.color=0FBF3E&icon.color=0FBF3E" alt="Trophies"/>
 </div>
 
 <br/>
