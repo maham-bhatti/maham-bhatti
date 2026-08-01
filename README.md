@@ -1,7 +1,7 @@
-
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0FBF3E&height=200&section=header&text=Maham%20Bhatti&fontSize=42&fontColor=B6BFB8&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Artificial%20Intelligence&descAlignY=58&descSize=18" width="100%"/>
+# Maham Shahid
+### Software Engineer | Artificial Intelligence
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+AI+%2F+ML+Enthusiast;Building+Multi-Agent+Reinforcement+Learning+Systems;Exploring+Simulations+with+SUMO+%26+Python;Currently+building+AQI+Predictor+%26+Adaptive+Traffic+Signal+Control;&font=Fira+Code&center=true&width=650&height=45&color=0FBF3E&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
@@ -336,7 +336,7 @@ const maham = {
 <a href="https://www.linkedin.com/in/maham-shahid7">
   <img src="https://img.shields.io/badge/LinkedIn-0FBF3E?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:maham.bhatti963@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=maham.bhatti963@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-0FBF3E?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -344,4 +344,8 @@ const maham = {
 
 <br/>
 
-<img src="https://capsule-render.com/api?type=waving&color=0FBF3E&height=120&section=footer&animation=twinkling" width="100%"/>
+<div align="center">
+
+### Thanks for visiting! ✨
+
+</div>
