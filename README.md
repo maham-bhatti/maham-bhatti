@@ -24,9 +24,9 @@ const maham = {
   title: "Software Engineer",
   focus: "Artificial Intelligence",
   stack: [
-    "Python", "C++", "Java", "SQL",
-    "Machine Learning", "Reinforcement Learning",
-    "HTML", "CSS", "Simulations"
+    "Python", "C++", "Java", "SQL", "YOLO", "Data Training", "Data Science", 
+    "Machine Learning", "Reinforcement Learning", "Deep Learning", "Agents", "Multi-Agents",
+    "HTML", "CSS", "Simulations", "SUMO", 
   ],
   launchedProjects: [
     "AQI Predictor — real-time air quality prediction app",
