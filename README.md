@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maham Shahid
+# Maham Bhatti
 ### Software Engineer | Artificial Intelligence
 
 <a href="https://git.io/typing-svg">
@@ -60,6 +60,10 @@ const maham = {
 
 **Final Year Project**
 
+- Simulates a Manhattan-style 4×4 grid network with 16 traffic junctions
+- Implements multiple multi-agent reinforcement learning algorithms
+- Trains and benchmarks each algorithm to identify the best-performing approach
+
 <table>
 <tr>
 <td width="60%">
@@ -86,6 +90,11 @@ const maham = {
 <br/>
 
 ### 🌫️ AQI Predictor
+
+- Predicts weather & air quality for the next 3 days — humidity, AQI, wind speed, and pressure
+- Shows 24-hour forecast plus historical weather records
+- Compares multiple ML models to identify the best-performing one
+- Includes an AQI health scale reference to show whether air quality is safe for people
 
 <table>
 <tr>
@@ -114,6 +123,10 @@ const maham = {
 
 ### 🏦 DSA Bank Management System
 
+- Full CRUD banking system — create, update, view, and delete accounts
+- Each user has a unique ID and password for secure access
+- Manages complete account details and transaction records
+
 <table>
 <tr>
 <td width="60%">
@@ -139,6 +152,10 @@ const maham = {
 <br/>
 
 ### 💬 Desktop Chat Application
+
+- Real-time messaging using **sockets** (no API polling — direct socket communication)
+- Records message timestamps and full conversation history
+- Native desktop chat experience with live, two-way communication
 
 <table>
 <tr>
@@ -166,6 +183,9 @@ const maham = {
 
 ### 📝 Plagiarism Checker
 
+- Scans submitted content and detects plagiarism
+- Returns an exact plagiarism percentage score for the given text
+
 <table>
 <tr>
 <td width="60%">
@@ -191,6 +211,9 @@ const maham = {
 <br/>
 
 ### 🎵 Music GUI
+
+- Lightweight GUI music player built with Python
+- Play, pause, skip forward/backward, and switch between songs freely
 
 <table>
 <tr>
@@ -218,6 +241,9 @@ const maham = {
 
 ### 🧮 Calculator GUI
 
+- Simple, functional GUI calculator
+- Performs all standard arithmetic operations
+
 <table>
 <tr>
 <td width="60%">
@@ -243,6 +269,9 @@ const maham = {
 <br/>
 
 ### 🔑 Password Generator
+
+- Generates strong, random passwords on demand
+- Also checks the strength of a user-entered password and flags whether it's secure
 
 <table>
 <tr>
