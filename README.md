@@ -1,10 +1,10 @@
 <div align="center">
 
-# Maham Bhatti
+# Maham Shahid
 ### Software Engineer | Artificial Intelligence
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+AI+%2F+ML+Enthusiast;Building+Multi-Agent+Reinforcement+Learning+Systems;Exploring+Simulations+with+SUMO+%26+Python;Currently+building+AQI+Predictor+%26+Adaptive+Traffic+Signal+Control;&font=Fira+Code&center=true&width=650&height=45&color=0FBF3E&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+AI+%2F+ML+Enthusiast;Building+Multi-Agent+RL+Systems;Exploring+Simulations+with+SUMO+%26+Python;Building+AQI+Predictor+%26+Traffic+Signal+Control;&font=Roboto+Mono&center=true&width=600&height=45&color=0FBF3E&vCenter=true&size=20&pause=1200" alt="Typing SVG" />
 </a>
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-0FBF3E?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
